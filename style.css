@@ -1,0 +1,46 @@
+body {
+  padding-top: 10%;
+  background: url(http://s33.postimg.org/yxuuzon5b/N_vtelen.png) no-repeat fixed;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;  
+}
+
+section {
+  background: rgba(255,255,255, 0.6);
+}
+
+h1, h4 {
+  font-family: "Courgette", arial;
+  color: black;
+}
+
+h3, p.button {
+  font-family: arial;
+}
+
+p.button-text{
+  display: inline;
+}
+
+p{
+  font-size: 20px;
+}
+
+.btn {
+  display: inline;
+  margin-bottom: 15px;
+  border-radius: 0;
+  white-space: normal;
+}
+.btn-twitter {
+    background: #00acee;
+    color: #fff
+}
+a:hover{
+  text-decoration: none;
+}
+a.hover:hover{
+  text-decoration: underline;
+}
